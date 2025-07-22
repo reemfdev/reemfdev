@@ -6,7 +6,7 @@ third-year Computer Science student at Umm Al-Qura University.
 Passionate about web development and continuously striving to enhance my technical skills through hands-on projects and self-learning.
 Proficient in the fundamentals of HTML, CSS, and JavaScript, and currently expanding my knowledge in modern frameworks like React and Node.js.
 My passion lies in building interactive web applications and innovative digital solutions.
-Feel free to explore my educational journey and projects on my LinkedIn profile.
+Feel free to explore my educational journey and projects on my Github profile.
 
 ## Connect with me 💼  
 
