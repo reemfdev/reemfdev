@@ -10,5 +10,5 @@ Feel free to explore my educational journey and projects on my LinkedIn profile.
 
 ## Connect with me 💼  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reem-falharthi)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reemfalharthi))  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Reem.FAlharthii@gmail.com)
